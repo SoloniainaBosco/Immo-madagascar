@@ -71,7 +71,7 @@ PYTHONPATH=. python3 src/indexer.py
 PYTHONPATH=. python3 src/nlp_parser.py
 PYTHONPATH=. python3 src/app.py
 
-### Accès
+### Accès
 Service	URL
 Interface web	http://localhost:5000
 Documentation API	http://localhost:5000/docs
