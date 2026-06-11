@@ -1,10 +1,10 @@
-Immo Madagascar
+# Immo Madagascar
 
 Moteur de recherche immobilier en langage naturel pour Madagascar.
 
 ---
 
- Description
+## Description
 
 Immo Madagascar permet de rechercher des biens immobiliers à Madagascar en utilisant des phrases en français courant.
 
@@ -14,7 +14,7 @@ Le système analyse la phrase, extrait les critères (type de bien, ville, budge
 
 ---
 
-Fonctionnalités
+## Fonctionnalités
 
 - Recherche en langage naturel français
 - Extraction automatique des critères (type, ville, prix, surface, équipements)
@@ -24,20 +24,21 @@ Fonctionnalités
 - Dashboard Kibana pour visualisation des données
 - API REST documentée avec Swagger
 
-
+---
 
 ## Stack technique
 
- Technologie  Usage
- Python 3.12 | Langage principal |
- FastAPI | API REST |
- Elasticsearch | Indexation et recherche géospatiale |
- Kibana | Visualisation des données |
- Docker Compose | Infrastructure |
- NumPy | Vectorisation et similarité cosinus |
- Pandas | Extraction d'entités |
- Leaflet.js | Carte interactive |
- HTML / CSS / JS | Interface web |
+| Technologie | Usage |
+|-------------|-------|
+| Python 3.12 | Langage principal |
+| FastAPI | API REST |
+| Elasticsearch | Indexation et recherche géospatiale |
+| Kibana | Visualisation des données |
+| Docker Compose | Infrastructure |
+| NumPy | Vectorisation et similarité cosinus |
+| Pandas | Extraction d'entités |
+| Leaflet.js | Carte interactive |
+| HTML / CSS / JS | Interface web |
 
 ---
 
